@@ -3,3 +3,5 @@ Week 7 of GGG 298 at UC Davis, example repository
 
 Hello, world.
 
+This is a second change
+
